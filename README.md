@@ -6,7 +6,7 @@ Split a 8-bit image into 8 bit planes
     <td align="center">input image</td>
   </tr>
   <tr>
-    <td align="center"><img src="lena.png"></td>
+    <td align="top"><img src="lena.png"></td>
   </tr>
    <tr>
     <td align="center">Bit plane 0</td>
