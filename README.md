@@ -1,5 +1,8 @@
 # Bitplane-slicing-of-an-image
-Split a 8-bit image into 8 bit planes
+### If you want to split the image bit planes use "bitplane_slicing.py"
+### To construct the image from the splitted individual bit planes (starting from MSBs) use "rejoin_planes.py"
+
+### If you want to perform both steps using single code use "split_and_rejoin.py"
 
 <table>
   <tr>
